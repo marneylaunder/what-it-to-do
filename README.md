@@ -15,7 +15,7 @@ A to-do/ task list for work and everything else 📋
  Since I'm doing this in my spare time, I think it's a good idea to track my tasks Kanban-style - I'll have a look at GitHub issues and the other tools on here for managing a project and go from there. Watch this space for more details as I go. 
  
  ## Credits/ References
- I'm not much of a developer (might've written 20 lines of code in my life up to this point 😂; since I'm working on this project and learning at the same time, I'll be needing a <b> LOT </b> of help. Google and Youtube will be my best friends here, as well as some good chats with developer mates of mine; I'll list any resources I get some inspiration from below: 
+ I'm not much of a developer (might've written 20 lines of code in my life up to this point 😂); since I'm working on this project and learning at the same time, I'll be needing a <b> LOT </b> of help. Google and Youtube will be my best friends here, as well as some good chats with developer mates of mine; I'll list any resources I get some inspiration from below: 
  
  ## Features
 <b> Must-haves </b>
@@ -28,7 +28,7 @@ A to-do/ task list for work and everything else 📋
 
 <b> Nice-to-haves </b>
 * Pomodoro timer - a way to assign 25 min blocks to each task and use this as a deep-work/ productivity tracker
-** Slack integration: automatically updating status and muting notifications if I'm in a deep-work session
+* Slack integration: automatically updating status and muting notifications if I'm in a deep-work session
 
  ## Design
  This one is right up there in importance - I want the tool to have a nice look and feel so that I can enjoy using it. 

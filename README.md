@@ -4,7 +4,7 @@ A to-do/ task list for work and everything else 📋
  ## Description
  I've used a lot of to-do lists as a student, and at work. I'll be honest here - most out-of-the-box to-do lists just don't feel right. To-do/ task lists are very personal, and everyone likes having different features on their lists. Since I haven't found any products that tick all the boxes yet (pun intended), I thought I'd make one myself. 
  
- This is a personal project to create a tool that I'd enjoy using; learning how to code by diving right into building something is an added benefit 😃. 
+ This is a personal project to create a tool that I'd enjoy using; learning how to code by diving right into building something is an added benefit 😃
  
  ## Tech Stuff
  I'll be using JavaScript for the behaviour of the tool, and HTML + CSS for the UI side of things - keeping it simple for now, and building on functionality whenever I'm hit with some inspiration. 

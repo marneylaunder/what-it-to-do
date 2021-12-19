@@ -12,10 +12,10 @@ A to-do/ task list for work and everything else 📋
  One thing I need to figure out here is how to save/ cache the list of tasks so that they persist day-to-day. This should be fine locally, but we'll cross the prod-version bridge when we get to it.
  
  ## Ways of Working
- Since I'm doing this in my spare time, I think it's a good idea to track my tasks Kanban-style - I'll have a look at GitHub issues and the other tools on here for managing a project and go from there. Watch this space for more details as I go. 
+ Since I'm doing this in my spare time, I think it's a good idea to track my tasks Kanban-style - I'll use GitHub issues for this.
  
  ## Credits/ References
- I'm not much of a developer (might've written 20 lines of code in my life up to this point 😂); since I'm working on this project and learning at the same time, I'll be needing a <b> LOT </b> of help. Google and Youtube will be my best friends here, as well as some good chats with developer mates of mine; I'll list any resources I get some inspiration from below: 
+ I'm not much of a developer ATM (might've written 20 lines of code in my life up to this point 😂); since I'm working on this project and learning at the same time, I'll be needing a <b> LOT </b> of help. Google and Youtube will be my best friends here, as well as some good chats with developer mates of mine; I'll list any resources I get some inspiration from within GitHub issues.
  
  ## Features
 <b> Must-haves </b>

@@ -15,33 +15,34 @@ A to-do/ task list for work and everything else 📋
  Since I'm doing this in my spare time, I think it's a good idea to track my tasks Kanban-style - I'll use GitHub issues for this.
  
  ## Credits/ References
- I'm not much of a developer ATM (might've written 20 lines of code in my life up to this point 😂); since I'm working on this project and learning at the same time, I'll be needing a <b> LOT </b> of help. Google and Youtube will be my best friends here, as well as some good chats with developer mates of mine; I'll list any resources I get some inspiration from within GitHub issues.
+ I'm not much of a developer ATM (might've written 20 lines of code in my life up to this point 😂); since I'm working on this project and learning at the same time, I'll be needing a <b> LOT </b> of help. Google and Youtube will be my best friends here, as well as some good chats with developer mates of mine; I'll list any resources I found helpful within GitHub issues.
  
  ## Features
 <b> Must-haves </b>
 * Add a task
 * Edit a task
 * Delete a task
+* View task(s)
 * Complete a task (with strike-through or other UX)
 * Organise tasks by date
 * Move tasks between dates
 
 <b> Nice-to-haves </b>
 * Pomodoro timer - a way to assign 25 min blocks to each task and use this as a deep-work/ productivity tracker
-* Slack integration: automatically updating status and muting notifications if I'm in a deep-work session
+* Slack integration: automatically updating status and muting notifications if I'm in a Pomodoro session
 
  ## Design
  This one is right up there in importance - I want the tool to have a nice look and feel so that I can enjoy using it. 
  
- Once I build the general functionality, I'll uplift the UI - I want to research some design systems and see which one I like; another bridge for another day. 
+ Once I build out the general functionality, I'll uplift the UI - I want to research some design systems and see which one I like; another bridge for another day. 
  
  ## Roadmap/ Tasks
  *Wish I had a way of organising my tasks here* 😉
  
- 1. Design the rough layout of the HTML page this tool will be displayed on
+ 1. Design the rough layout of the HTML page this tool will be hosted on
  2. Figure out the behaviour and user-interaction of the tool
  3. Get my Mr. Robot/ dev hat 🎩 on and code out all the must-haves
- 4. Test/ iterate/ debug/ test/ iterate and so on until I'm happy with the behaviour
+ 4. Test/ debug/ iterate/ test and so on until I'm happy with the behaviour
  5. Uplift the design using a slick system/ framework 
  6. Decide where I want to go from here - build out some nice-to-haves etc.
  

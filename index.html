@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>What it To-Do Babyyyy</title>
+</head>
+<body>
+    
+    <div class="container"
+
+        <form action="/action_page.php">
+            <label>
+                Date range:
+                <input id="date-range" type="date"  name="date-range">
+            </label>
+        </form>
+
+        <form class="todo-form">
+            <input class="todo-input" type="text"  placeholder="What it do babyyyy">
+            <button class="taskdate-button" type="button">
+                <ion-icon name="calendar-clear-outline"></ion-icon>
+            </button>
+            <button class="add-button" type="submit"  >Add Task</button>
+        </form> 
+
+     <!-- Need to display date here as a header  -->
+
+     
+
+        <ul class="todo-tasks"> 
+            <li class="task">
+                <input class="checkbox" type="checkbox" > 
+                I'm here with FunGuYYyY
+                <button class="edit-button" type="button">
+                    <ion-icon name="create-outline"></ion-icon>
+                </button>
+                <button class="delete-button" type="button">
+                    <ion-icon name="trash-outline"></ion-icon>
+                </button>
+            </li>
+        </ul>
+
+    </div>
+
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script> 
+</body>
+</html>

@@ -4,47 +4,54 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
     <title>What it To-Do Babyyyy</title>
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-    
-    <div class="container"
 
-        <form action="/action_page.php">
-            <label>
-                Date range:
-                <input id="date-range" type="date"  name="date-range">
-            </label>
-        </form>
-
-        <form class="todo-form">
-            <input class="todo-input" type="text"  placeholder="What it do babyyyy">
-            <button class="taskdate-button" type="button">
-                <ion-icon name="calendar-clear-outline"></ion-icon>
-            </button>
-            <button class="add-button" type="submit"  >Add Task</button>
+    <div class="task-field">
+        <form class="task-form">
+            <input class="task-input" type="text"  placeholder="What it do babyyyy">
+            <button class="add-button" type="submit">Add Task</button>
         </form> 
-
-     <!-- Need to display date here as a header  -->
-
-     
-
-        <ul class="todo-tasks"> 
-            <li class="task">
-                <input class="checkbox" type="checkbox" > 
-                I'm here with FunGuYYyY
-                <button class="edit-button" type="button">
-                    <ion-icon name="create-outline"></ion-icon>
-                </button>
-                <button class="delete-button" type="button">
-                    <ion-icon name="trash-outline"></ion-icon>
-                </button>
-            </li>
-        </ul>
-
     </div>
 
-    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
-    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script> 
-</body>
+    <div class="incomplete-container">
+        <button class="collapsible" type="button">To Do</button>
+        <div class="incomplete-target">
+            <ul class="todo-list">
+                <li class="todo-item">
+                    <input class="checkbox" type="checkbox" > 
+                    I'm here with FunGuYYyY
+                    <button class="edit-button" type="button">
+                        <ion-icon name="create-outline"></ion-icon>
+                    </button>
+                    <button class="delete-button" type="button">
+                        <ion-icon name="trash-outline"></ion-icon>
+                    </button>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="complete-container">
+        <button class="collapsible" type="button">Done</button>
+        <div class="complete-target">
+            <ul class="todo-list">
+                <li class="todo-item">
+                    <input class="checkbox" type="checkbox" > 
+                    I'm here with FunGuYYyY
+                    <button class="edit-button" type="button">
+                        <ion-icon name="create-outline"></ion-icon>
+                    </button>
+                    <button class="delete-button" type="button">
+                        <ion-icon name="trash-outline"></ion-icon>
+                    </button>
+                </li>
+            </ul>
+        </div>
+    </div>
+ </body>
 </html>
